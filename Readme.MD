@@ -4,7 +4,7 @@
 	pip install boto3
 
 ## Upload a file located into the "local_files" folder
-	execut the following script
+	execute the following script
 	
 	python scripts/upload_file_to_aws_s3.py 
 

@@ -1,4 +1,4 @@
-#Upload files/create folders into Amazon S3 using python
+# Upload files/create folders into Amazon S3 using python
 
 ## Install the following python packages
 	pip install boto3

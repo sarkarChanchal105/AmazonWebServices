@@ -3,6 +3,9 @@
 ## Install the following python packages
 	pip install boto3
 
+## Update the config file with the variables,
+	
+
 ## Upload a file located into the "local_files" folder
 	execute the following script
 	
